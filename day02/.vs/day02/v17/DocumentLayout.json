@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uAE40\uC608\uC6D0\\OneDrive\\\uBB38\uC11C\\GitHub\\Java_script\\day02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B819CA70-5E9D-496E-9296-10B1D228D4A6}|day02.vcxproj|C:\\Users\\\uAE40\uC608\uC6D0\\OneDrive\\\uBB38\uC11C\\GitHub\\Java_script\\day02\\day02-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B819CA70-5E9D-496E-9296-10B1D228D4A6}|day02.vcxproj|solutionrelative:day02-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B819CA70-5E9D-496E-9296-10B1D228D4A6}|day02.vcxproj|C:\\Users\\\uAE40\uC608\uC6D0\\OneDrive\\\uBB38\uC11C\\GitHub\\Java_script\\day02\\day02_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B819CA70-5E9D-496E-9296-10B1D228D4A6}|day02.vcxproj|solutionrelative:day02_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "day02-2.cpp",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC608\uC6D0\\OneDrive\\\uBB38\uC11C\\GitHub\\Java_script\\day02\\day02-2.cpp",
+              "RelativeDocumentMoniker": "day02-2.cpp",
+              "ToolTip": "C:\\Users\\\uAE40\uC608\uC6D0\\OneDrive\\\uBB38\uC11C\\GitHub\\Java_script\\day02\\day02-2.cpp",
+              "RelativeToolTip": "day02-2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T10:53:27.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "day02_1.cpp",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC608\uC6D0\\OneDrive\\\uBB38\uC11C\\GitHub\\Java_script\\day02\\day02_1.cpp",
+              "RelativeDocumentMoniker": "day02_1.cpp",
+              "ToolTip": "C:\\Users\\\uAE40\uC608\uC6D0\\OneDrive\\\uBB38\uC11C\\GitHub\\Java_script\\day02\\day02_1.cpp",
+              "RelativeToolTip": "day02_1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T10:53:02.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
